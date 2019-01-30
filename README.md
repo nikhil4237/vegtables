@@ -1,2 +1,4 @@
 # vegtables
-temp
+tomato
+potato
+chillies
