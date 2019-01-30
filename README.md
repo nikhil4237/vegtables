@@ -7,4 +7,3 @@ Fruits
 mango
 banana
 apples
-
